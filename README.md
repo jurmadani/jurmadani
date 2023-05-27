@@ -1,16 +1,37 @@
-### Hi there 👋
+<h1 align="center">Hello! <img src="https://raw.githubusercontent.com/jurmadani/jurmadani/main/wave.gif" width="28px" alt="👋"></h1>
 
-<!--
-**jurmadani/jurmadani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <i>
+        I'm Daniel.<br>
+        Computer Science Student | Currently learning FullStack Development.<br>
+    </i><br>
+    <a href="https://www.linkedin.com/in/daniel-jurma">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+   
+</p>
 
-Here are some ideas to get you started:
+## aboutMe.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const daniel = {
+    code: [Typescript, C++, C, C#, Python],
+    askMeAbout: ["web dev", "mobile dev", "sports", "tesla cars", "coffee"],
+    technologies: {
+        frontEnd: {
+            css: ["ui kitten", "react native elements", "react native paper"],  
+        },
+        backEnd: {
+            js: ["firebase", "node"]
+        },  
+        frameworks: ['React Native', '.NET'],
+        design: ['Figma']        
+    }
+};
+```
+  
+  
+<p align="center">
+  <a href="https://github.com/wervlad">
+    <img src="https://komarev.com/ghpvc/?username=jurmadani&color=blue&style=flat)" />
+  </a>
+</p>
