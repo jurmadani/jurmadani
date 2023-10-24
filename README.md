@@ -3,7 +3,7 @@
 <p align="center">
     <i>
         I'm Daniel.<br>
-        Computer Science Student | Currently learning FullStack Development.<br>
+        Computer Science Student | Currently FullStack Developer<br>
     </i><br>
     <a href="https://www.linkedin.com/in/daniel-jurma">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
@@ -14,16 +14,16 @@
 
 ```javascript
 const daniel = {
-    code: [Typescript, C++, C, C#, Python],
+    code: [Java, Javascript, Typescript, C++, C, C#, Python],
     askMeAbout: ["web dev", "mobile dev", "sports", "tesla cars", "coffee"],
     technologies: {
         frontEnd: {
-            css: ["ui kitten", "react native elements", "react native paper"],  
+            css: ["ui kitten", "react native elements", "react native paper", tailwind, MUI],  
         },
         backEnd: {
-            js: ["firebase", "node"]
+            js: ["firebase", "node.js", mySQL]
         },  
-        frameworks: ['React Native', '.NET'],
+        frameworks: ['React Native', '.NET', 'React.js'],
         design: ['Figma']        
     }
 };
