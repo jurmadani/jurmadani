@@ -34,7 +34,7 @@ const daniel = {
   
   
 <p align="center">
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/jurmadani">
     <img src="https://komarev.com/ghpvc/?username=jurmadani&color=blue&style=flat)" />
   </a>
 </p>
