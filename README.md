@@ -5,7 +5,7 @@
     <p align="center">
         <i>
             I'm Daniel.<br>
-            Mobile Developer<br>
+            I own a computer...<br>
         </i><br>
         <a href="https://www.linkedin.com/in/daniel-jurma">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
