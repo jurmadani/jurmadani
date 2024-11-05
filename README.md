@@ -13,28 +13,3 @@
     </p>
 </div>
 
-
-## aboutMe.js
-
-```javascript
-const daniel = {
-    code: ["Java", "Javascript", "Typescript", "C++", "C", "C#", "Python", "Swift"],
-    askMeAbout: ["web dev", "mobile dev", "sports", "tesla cars", "coffee", "ski"],
-    technologies: {
-        frontEnd: {
-            css: ["ui kitten", "react native elements", "react native paper", "tailwind", "MUI"],
-            javascript: ["React.js", "React Native", "Next.js"],
-            design: ["Figma"],
-        },
-        backEnd: ["firebase", "python"],
-        frameworks: [".NET"],
-    }
-};
-```
-  
-  
-<p align="center">
-  <a href="https://github.com/jurmadani">
-    <img src="https://komarev.com/ghpvc/?username=jurmadani&color=blue&style=flat)" />
-  </a>
-</p>
