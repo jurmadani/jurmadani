@@ -11,5 +11,8 @@
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
         </a>
     </p>
+         <a href="https://github.com/jurmadani">
+    <img src="https://komarev.com/ghpvc/?username=jurmadani&color=blue&style=flat)" />
+  </a>
 </div>
 
